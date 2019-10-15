@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/cuon-kakimoto/go-echo/hanlder"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"net/http"
-	"shdb_api/hanlder"
 )
 
 var (
