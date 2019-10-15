@@ -1,5 +1,5 @@
-module shdb-api
+module github.com/cuon-kakimoto/go-echo
 
 go 1.13
 
-require github.com/labstack/echo/v4 v4.1.11 // indirect
+require github.com/labstack/echo/v4 v4.1.11
